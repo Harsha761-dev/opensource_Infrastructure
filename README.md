@@ -17,7 +17,7 @@ terraform workspace new dev
 terraform workspace new staging
 terraform workspace new prod
 
-Terraform installation & Configuration steps written in .gitlab-ci.yml ,.jenkin.file
+Terraform installation & Configuration steps written in .gitlab-ci.yml ,.jenkins.file
 
 Best Practices and Cost Optimization
 Security Best Practices
